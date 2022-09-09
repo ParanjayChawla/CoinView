@@ -1,10 +1,13 @@
-# jayinterview
+# CryptoApp
 
 Created with UIKit.
 
 
 Page 1 :- Coins and prices 
         Green for 24 hour positive change in price, red for the opposite. Thumbnail shown as well. 
+        Loading 7000 coins and their details is not possible at once, since the API has a maximum of 50 calls / min.
+        I arranged my coins to show the top 10 coins by market value and then the rest. 
+        
 
 Page 2 :- 
         Coin name :- displayed next to thumbnail. 
