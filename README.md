@@ -9,7 +9,7 @@ Page 1 :- Coins and prices
         
 
 Page 2 :- 
-        Coin name :- displayed next to thumbnail. 
+        Coin name :- displayed next to thumbnail.
         Price :- both in USD and BTC. Same colouring scheme as page 1.
         Description :- in English.
         Buy Button :- Redirects to page 3
