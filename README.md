@@ -39,7 +39,7 @@ Created with UIKit. This iOS app integrates real-time cryptocurrency data, offer
 1. **Clone the Repository**: First, clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ParanjayChawla/CoinView
 2. **Open the Project in Xcode**:
 - Navigate to the cloned directory.
 - Open the **.xcodeproj** file by double-clicking on it or opening it through Xcode.
